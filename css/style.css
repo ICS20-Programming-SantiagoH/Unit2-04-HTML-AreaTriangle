@@ -1,0 +1,20 @@
+/* Created by: Santiago Hewett
+* Created on: Mar 2023
+* This CSS file defines the style for index.html
+* ICS2O-Unit2-04-HTML-AreaTriangle
+*/
+
+body {
+	background-color: lightsalmon;
+}
+
+h1 {
+	background-color: rgb(236, 236, 16);
+	color: hsl(145, 63%, 32%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #ff7b00;
+}
